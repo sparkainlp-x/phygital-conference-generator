@@ -1,0 +1,45 @@
+# Copyright (c) 2026 Jean-Francois Brisson (Spark AI NLP)
+# SPDX-License-Identifier: AGPL-3.0-only
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Holographic Phygital Conference Plan Generator: one core, any country"
+type: software
+authors:
+  - family-names: "Brisson"
+    given-names: "Jean-François"
+    orcid: "https://orcid.org/0009-0000-9778-5374"
+    affiliation: "Spark AI NLP, Fredericton, New Brunswick, Canada"
+version: 0.1.0
+date-released: "2026-11-21"
+license: AGPL-3.0-only
+repository-code: "https://github.com/sparkainlp-x/phygital-conference-generator"
+url: "https://sparkainlpx.xyz"
+abstract: >-
+  A small, standard-library Python program that generates a WorldHoloBridge
+  conference plan for one country from a country profile. The ACOA brief is
+  the fixed content (six conference phases, five holographic tiers, twelve
+  governance rules, the adopted demo tiers, the 90-day Country Node pilot);
+  the country profile is the variable content (languages, cultural
+  authorities, flagship sectors, venues, funding body, disability
+  organizations, consent law). Built-in profiles: Canada, Morocco, Germany,
+  France, United Kingdom. A new country is a copied JSON file, no code
+  change. Every generated plan is checked by 19 tests for all six phases,
+  all five tiers, both worked examples (Hall of Memory museum, Cadre
+  artistique publicity), the full twelve-rule governance checklist, and the
+  demo tiers at the adopted prices. The companion plan document
+  (docs/holographic-phygital-society-plan.md) sets out the framework: one
+  conference, two engines; demos by appointment; the code open, the service
+  the product; consent first, sponsor firewall, guardrails that cannot be
+  disabled. All ideas are sparkainlp-x's own; third-party products
+  (Looking Glass, Sony ELF-MN1) and the Marie Curie example figure are
+  named as products and examples, not claimed as ideas.
+keywords:
+  - holographic
+  - phygital
+  - conference
+  - WorldHoloBridge
+  - Spark AI Matrix
+  - AI governance
+  - consent
+  - disability-led
+  - Python
